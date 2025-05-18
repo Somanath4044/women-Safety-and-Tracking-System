@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "956220780701",
+    "firebase_url": "https://womensafty-ced3e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "womensafty-ced3e",
+    "storage_bucket": "womensafty-ced3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956220780701:android:9637dd7301f3cbdb2be474",
+        "android_client_info": {
+          "package_name": "com.pemchip.womensafty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfCmNI8tMj-ghAOht-AnoXruZDzJaznGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
